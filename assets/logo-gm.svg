@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="350 165 785 490" role="img" aria-label="GM Industrial Solutions">
+  <title>GM Industrial Solutions</title>
+  <g fill="#022352">
+    <path d="M555 243H735L713 292H545C520 292 505 305 500 318L480 372C474 388 484 397 498 397H601L614 365H541L567 322H702L653 447H460C420 447 400 430 400 408C400 395 403 385 408 372L440 300C455 262 490 243 555 243Z"/>
+    <path d="M360 441C470 530 650 552 823 512C650 520 470 512 360 441Z"/>
+    <path d="M603 458C640 512 820 515 945 447C820 490 680 490 603 458Z"/>
+  </g>
+  <g fill="#4D4D4D">
+    <path d="M677 447L757 243H813L848 345L960 243H1018L958 433C935 437 910 441 892 447L927 340L820 438L778 342L741 447Z"/>
+    <path d="M937 187A148 148 0 0 1 992 473A166 166 0 0 0 937 187Z"/>
+    <path d="M760 534C850 532 930 510 1000 470L986 464C920 500 850 520 760 534Z"/>
+    <g transform="translate(938 335)">
+      <path d="M140 -10L176 -6V6L140 10Z" transform="rotate(-64)"/>
+      <path d="M140 -10L176 -6V6L140 10Z" transform="rotate(-43)"/>
+      <path d="M140 -10L176 -6V6L140 10Z" transform="rotate(-22)"/>
+      <path d="M140 -10L176 -6V6L140 10Z" transform="rotate(-1)"/>
+      <path d="M140 -10L176 -6V6L140 10Z" transform="rotate(20)"/>
+      <path d="M140 -10L176 -6V6L140 10Z" transform="rotate(41)"/>
+      <path d="M140 -10L176 -6V6L140 10Z" transform="rotate(62)"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#022352" stroke-width="8" stroke-linejoin="round">
+    <path transform="translate(397 561)" d="M4 0V41"/>
+    <path transform="translate(437 561)" d="M4 41V0M46 41V0M4 4L46 37"/>
+    <path transform="translate(531 561)" d="M4 0V41M4 4H22Q36 4 36 18V23Q36 37 22 37H4"/>
+    <path transform="translate(603 561)" d="M4 0V26Q4 37 15 37H34Q45 37 45 26V0"/>
+    <path transform="translate(685 561)" d="M41 4H12Q4 4 4 12Q4 20.5 12 20.5H33Q41 20.5 41 29Q41 37 33 37H4"/>
+    <path transform="translate(760 561)" d="M0 4H46M23 4V41"/>
+    <path transform="translate(848 561)" d="M4 41V0M4 4H24Q36 4 36 13Q36 22 24 22H4M20 22L36 41"/>
+    <path transform="translate(922 561)" d="M4 0V41"/>
+    <path transform="translate(960 561)" d="M3 41L28 0L53 41M13 27H43"/>
+    <path transform="translate(1045 561)" d="M4 0V37H40"/>
+  </g>
+  <g fill="none" stroke="#4D4D4D" stroke-width="5" stroke-linejoin="round">
+    <path transform="translate(531 622)" d="M23.5 2.5H8Q2.5 2.5 2.5 7.5Q2.5 12 8 12H18Q23.5 12 23.5 16.5Q23.5 21.5 18 21.5H2.5"/>
+    <path transform="translate(582.5 622)" d="M8 2.5H18Q23.5 2.5 23.5 8V16Q23.5 21.5 18 21.5H8Q2.5 21.5 2.5 16V8Q2.5 2.5 8 2.5Z"/>
+    <path transform="translate(634 622)" d="M2.5 0V21.5H26"/>
+    <path transform="translate(685.5 622)" d="M2.5 0V16Q2.5 21.5 8 21.5H18Q23.5 21.5 23.5 16V0"/>
+    <path transform="translate(737 622)" d="M0 2.5H26M13 2.5V24"/>
+    <path transform="translate(788.5 622)" d="M2.5 0V24"/>
+    <path transform="translate(819 622)" d="M8 2.5H18Q23.5 2.5 23.5 8V16Q23.5 21.5 18 21.5H8Q2.5 21.5 2.5 16V8Q2.5 2.5 8 2.5Z"/>
+    <path transform="translate(870.5 622)" d="M2.5 24V0M23.5 24V0M2.5 2.5L23.5 21.5"/>
+    <path transform="translate(922 622)" d="M23.5 2.5H8Q2.5 2.5 2.5 7.5Q2.5 12 8 12H18Q23.5 12 23.5 16.5Q23.5 21.5 18 21.5H2.5"/>
+  </g>
+  <g stroke="#022352" stroke-width="3">
+    <path d="M396 633H508"/>
+    <path d="M973 633H1085"/>
+  </g>
+</svg>
